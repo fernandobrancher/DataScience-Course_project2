@@ -19,4 +19,4 @@ O programa deveria:
 - Atualizar o cadastro de um produto,
 - Excluir um produto do cadastro.
 
-As informações do cadastro deveriam ser salvas num arquivo *.txt.
+As informações do cadastro deveriam ser salvas num arquivo *.txt ou *.csv
